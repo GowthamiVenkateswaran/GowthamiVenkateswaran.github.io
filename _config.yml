@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gowthami Venkateswaran"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "PhD Student at the department of Agricultural and Consumer Economics"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gowthami Venkateswaran"
+  name             : ""
   avatar           : "profile.PNG"
   bio              : "Applied Economics PhD Student"
   location         : "Champaign, IL"

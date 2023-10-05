@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Gowthami!"
+title: "Gowthami Venkateswaran"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
